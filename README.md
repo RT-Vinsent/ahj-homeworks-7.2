@@ -9,7 +9,7 @@
 
 ---  
 
-[![Build status](https://ci.appveyor.com/api/projects/status/dw9n2uptt3h0yffn?svg=true)](https://ci.appveyor.com/project/RT-Vinsent/ahj-homeworks-7.2)  
+[![Build status](https://ci.appveyor.com/api/projects/status/2o0kg14v601m76hu?svg=true)](https://ci.appveyor.com/project/RT-Vinsent/ahj-homeworks-7-2)
 
 [![pages-build-deployment](https://github.com/RT-Vinsent/ahj-homeworks-7.2/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RT-Vinsent/ahj-homeworks-7.2/actions/workflows/pages/pages-build-deployment)
 
